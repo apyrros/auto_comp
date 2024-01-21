@@ -9,7 +9,7 @@ git clone https://github.com/apyrros/auto_comp
 'ollama run mistral'
 
 # Usage
-# python api_server.py
+# api_server.py
 The api_server.py script utilizes the Flask web framework to run a lightweight server capable of handling API calls. It's designed to listen for requests, process them according to the defined routes and methods, and return responses.  
 
 # query_pacs.py
