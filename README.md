@@ -1,5 +1,5 @@
 # auto_comp
-Simple interface to query a PACS server and obtain a list of relevant comparison studies using Mistral.
+Simple interface to query a PACS server and obtain a list of relevant comparison studies using DICOM with Mistral sorting the results.
 
 # Cloning the repository
 git clone https://github.com/apyrros/auto_comp
